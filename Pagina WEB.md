@@ -571,7 +571,9 @@ This script gets the time in real time. And it returns a string with format hh:m
 	
 	</html>
 This is [on GitHub](https://github.com/IoTKali/Web/blob/master/index%202.html) so let me know if I've worked it somewhere.
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+----------
+
 
 #Home Page
 
